@@ -6,7 +6,8 @@ This project automates a simple login-logout scenario user flow in the **Sauce L
 ---
 
 Demo
-https://github.com/omarshoap/AppiumTask1/blob/main/Demo.mp4
+[https://github.com/omarshoap/AppiumTask1/blob/main/Demo.mp4
+](https://github.com/user-attachments/assets/1abbbe4a-0c0d-4f79-82d2-6d2e7850c7c7)
 
 ## Task Requirements
 
