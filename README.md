@@ -9,6 +9,13 @@ Demo
 [https://github.com/omarshoap/AppiumTask1/blob/main/Demo.mp4
 ](https://github.com/user-attachments/assets/1abbbe4a-0c0d-4f79-82d2-6d2e7850c7c7)
 
+
+
+https://github.com/user-attachments/assets/398efd65-138f-4374-8891-08eef337a168
+
+
+
+
 ## Task Requirements
 
 The automation script performs the following steps:
